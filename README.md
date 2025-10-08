@@ -6,4 +6,5 @@ Watch the tutorial on [YouTube](https://youtu.be/jPbOKwXqdn8)
 
 My jiggly baby!
 
-![metaball](./assets/metaball480.mov)
+https://github.com/user-attachments/assets/31b1620c-8619-45e7-bcfa-8a201244636a
+
