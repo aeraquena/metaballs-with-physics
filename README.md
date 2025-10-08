@@ -4,6 +4,6 @@ Let's dive into mesmerizing metaballs using Three.js, with physics via Rapier. W
 
 Watch the tutorial on [YouTube](https://youtu.be/jPbOKwXqdn8)
 
-My jiggly baby
+My jiggly baby!
 
-![metaball](./assets/metaball.gif)
+![metaball](./assets/metaball480.mov)
